@@ -1,3 +1,6 @@
 [submodule "ConnectHub-Frontend-Web"]
 	path = ConnectHub-Frontend-Web
 	url = https://github.com/josephclydemar/ConnectHub-Frontend-Web.git
+[submodule "ConnectHub-Frontend-Mobile"]
+	path = ConnectHub-Frontend-Mobile
+	url = https://github.com/josephclydemar/ConnectHub-Frontend-Mobile.git
