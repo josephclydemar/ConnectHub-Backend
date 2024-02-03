@@ -1,0 +1,2 @@
+# ConnectHub-Backend
+The backend server repository for Connect Hub, a social media application inspired by Twitter and Facebook. This repository contains the server-side code responsible for handling data storage, user authentication, API endpoints, and other backend functionalities.
