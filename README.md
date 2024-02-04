@@ -3,7 +3,7 @@
 
 
 ## `ConnectHub`-Backend
-<span><big>**What is `ConnectHub`?**</big></span>
+### What is `ConnectHub`?
 
 **`ConnectHub`** is a social media application inspired by Twitter and Facebook.
 
