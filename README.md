@@ -27,7 +27,6 @@
 2. `PostgreSQL`
 3. `MongoDB`
 4. `Redis`
-5. `ReactJS`
 
 <br>
 
