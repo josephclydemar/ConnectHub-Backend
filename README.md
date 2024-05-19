@@ -1,5 +1,4 @@
-
-## ConnectHub [Backend]
+# ConnectHub [Backend]
 <img src="./assets/connecthub-logo.png" height="300"/>
 <br>
 
