@@ -6,7 +6,7 @@
 
 <br>
 
-### Overall Project Description   
+### Overall Project Description
 **`ConnectHub`** is a social media application inspired by the features of both Twitter and Facebook. It provides users with a platform to connect, share updates, and engage with friends and followers. With **`ConnectHub`**, users can post status updates, share photos and videos, follow other users, and engage in real-time conversations through comments and messages. The project consists of three main components: a backend server to handle data storage and processing, a frontend web interface for desktop users, and a frontend mobile interface for users on the go.
 
 <br>
